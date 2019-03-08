@@ -1,0 +1,10 @@
+C:\Users\mgunes\source\repos\space_shooter\space_shooter\bin\Debug\space_shooter.exe.config
+C:\Users\mgunes\source\repos\space_shooter\space_shooter\bin\Debug\space_shooter.exe
+C:\Users\mgunes\source\repos\space_shooter\space_shooter\bin\Debug\space_shooter.pdb
+C:\Users\mgunes\source\repos\space_shooter\space_shooter\obj\Debug\space_shooter.csprojAssemblyReference.cache
+C:\Users\mgunes\source\repos\space_shooter\space_shooter\obj\Debug\space_shooter.Form1.resources
+C:\Users\mgunes\source\repos\space_shooter\space_shooter\obj\Debug\space_shooter.Properties.Resources.resources
+C:\Users\mgunes\source\repos\space_shooter\space_shooter\obj\Debug\space_shooter.csproj.GenerateResource.cache
+C:\Users\mgunes\source\repos\space_shooter\space_shooter\obj\Debug\space_shooter.csproj.CoreCompileInputs.cache
+C:\Users\mgunes\source\repos\space_shooter\space_shooter\obj\Debug\space_shooter.exe
+C:\Users\mgunes\source\repos\space_shooter\space_shooter\obj\Debug\space_shooter.pdb
